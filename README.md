@@ -7,7 +7,7 @@ Todas las operaciones de registro y agendamiento del taller se realizaron median
 
 ## Herramientas utilizadas
 
-Para elaborar este sistema se utilizó Scriptcase v9.0, un entorno de desarrollo enfocado en PHP. Como herramientas auxiliares se utilizo XAMPP para aprender el lenguaje PHP. También se utilizó GIMP para manipulación de imágenes específicas, Visual Studio Code para manipulación y análisis de archivos HTML, Javascript y CSS, utilizado de forma auxiliar a Scriptcase, además de Mozilla Firefox y Google Chrome para pruebas de compatibilidad entre navegadores.
+Para elaborar este sistema se utilizó Scriptcase v9.0, un entorno de desarrollo enfocado en PHP. Como herramientas auxiliares se utilizo XAMPP para aprender el lenguaje PHP. Visual Studio Code para manipulación y análisis de archivos HTML, Javascript y CSS, utilizado de forma auxiliar a Scriptcase, además de Mozilla Firefox y Google Chrome para pruebas de compatibilidad entre navegadores.
 
 Por ello se debe instalar el aplicativo de XAMPP para la ejecucion del sistema en un servidor local, posterior se debe descomprimir el zip de este repositorio en la carpeta "htdocs", y para su ingreso se debe emitir el enlace local seguido se "/AUTO-CLEAN"
 
@@ -15,7 +15,7 @@ Por ello se debe instalar el aplicativo de XAMPP para la ejecucion del sistema e
 
 El RDBMS utilizado fue MySQL, manipulado a través de phpmyadmin tanto para elaborar el modelo relacional como para crear la BD que albergará los datos del sistema. El código DB se puede encontrar en el directorio "\sql".
 
-La base de datos se debe instalar en el servidor local de XAMPP para su correcta funcionalidad, asi como tambien la conexion a la base de datos por medio de el enlace del servidor local a la aplicacion con la libreria "_lib/prod".
+La base de datos se debe instalar en el servidor local de XAMPP para su correcta funcionalidad, asi como tambien la conexion a la base de datos por medio de el enlace del servidor local a la aplicacion con ek directorio del aplicativo seguide de "_lib/prod".
 
 ## Funcionalidades
 
