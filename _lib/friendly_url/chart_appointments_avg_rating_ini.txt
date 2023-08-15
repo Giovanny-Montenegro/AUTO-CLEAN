@@ -1,0 +1,1 @@
+chart_appointments_avg_rating

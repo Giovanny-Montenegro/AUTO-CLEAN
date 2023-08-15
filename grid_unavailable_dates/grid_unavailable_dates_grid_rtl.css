@@ -1,0 +1,14 @@
+.css_title_label, .css_title_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_title_grid_line, .css_title_grid_line:hover {vertical-align: top;text-align: right;}
+.css_start_date_label, .css_start_date_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_start_date_grid_line, .css_start_date_grid_line:hover {vertical-align: top;text-align: center;}
+.css_start_time_label, .css_start_time_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_start_time_grid_line, .css_start_time_grid_line:hover {vertical-align: top;text-align: center;}
+.css_end_date_label, .css_end_date_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_end_date_grid_line, .css_end_date_grid_line:hover {vertical-align: top;text-align: center;}
+.css_end_time_label, .css_end_time_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_end_time_grid_line, .css_end_time_grid_line:hover {vertical-align: top;text-align: center;}
+.css_yearly_label, .css_yearly_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_yearly_grid_line, .css_yearly_grid_line:hover {vertical-align: top;text-align: right;}
+.css_unavailable_dates_id_label, .css_unavailable_dates_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_unavailable_dates_id_grid_line, .css_unavailable_dates_id_grid_line:hover {vertical-align: top;text-align: right;}

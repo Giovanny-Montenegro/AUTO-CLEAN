@@ -1,0 +1,8 @@
+.css_staff_id_label, .css_staff_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_staff_id_grid_line, .css_staff_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_staff_name_label, .css_staff_name_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_staff_name_grid_line, .css_staff_name_grid_line:hover {vertical-align: top;text-align: left;}
+.css_staff_email_label, .css_staff_email_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_staff_email_grid_line, .css_staff_email_grid_line:hover {vertical-align: top;text-align: left;}
+.css_staff_phone_label, .css_staff_phone_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_staff_phone_grid_line, .css_staff_phone_grid_line:hover {vertical-align: top;text-align: left;}

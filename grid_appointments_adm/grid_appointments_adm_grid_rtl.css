@@ -1,0 +1,20 @@
+.css_appointment_start_date_label, .css_appointment_start_date_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_appointment_start_date_grid_line, .css_appointment_start_date_grid_line:hover {vertical-align: top;text-align: center;}
+.css_appointment_start_time_label, .css_appointment_start_time_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_appointment_start_time_grid_line, .css_appointment_start_time_grid_line:hover {vertical-align: top;text-align: center;}
+.css_staff_id_label, .css_staff_id_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_staff_id_grid_line, .css_staff_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_customers_id_label, .css_customers_id_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_customers_id_grid_line, .css_customers_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_total_price_label, .css_total_price_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_price_grid_line, .css_total_price_grid_line:hover {vertical-align: top;text-align: right;}
+.css_total_price_sub_tot, .css_total_price_sub_tot:hover {text-align: right;}
+.css_total_price_tot_ger, .css_total_price_tot_ger:hover {text-align: right;}
+.css_appointments_id_label, .css_appointments_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_appointments_id_grid_line, .css_appointments_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_price_label, .css_price_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_price_grid_line, .css_price_grid_line:hover {vertical-align: top;text-align: right;}
+.css_additional_charges_label, .css_additional_charges_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_additional_charges_grid_line, .css_additional_charges_grid_line:hover {vertical-align: top;text-align: right;}
+.css_discount_label, .css_discount_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_discount_grid_line, .css_discount_grid_line:hover {vertical-align: top;text-align: right;}

@@ -1,0 +1,4 @@
+.css_id_weekday_label, .css_id_weekday_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_weekday_grid_line, .css_id_weekday_grid_line:hover {vertical-align: top;text-align: right;}
+.css_weekday_descr_label, .css_weekday_descr_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_weekday_descr_grid_line, .css_weekday_descr_grid_line:hover {vertical-align: top;text-align: left;}
