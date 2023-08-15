@@ -13,7 +13,7 @@ Por ello se debe instalar el aplicativo de XAMPP para la ejecucion del sistema e
 
 ## Base de datos
 
-El RDBMS utilizado fue MySQL, manipulado a través de phpmyadmin tanto para elaborar el modelo relacional como para crear la BD que albergará los datos del sistema. El código DB se puede encontrar en el directorio "\BD_AUTO-CLEAN".
+El RDBMS utilizado fue MySQL, manipulado a través de phpmyadmin tanto para elaborar el modelo relacional como para crear la BD que albergará los datos del sistema. El código DB se puede encontrar en el directorio "\sql".
 
 La base de datos se debe instalar en el servidor local de XAMPP para su correcta funcionalidad, asi como tambien la conexion a la base de datos por medio de el enlace del servidor local a la aplicacion con la libreria "_lib/prod".
 
